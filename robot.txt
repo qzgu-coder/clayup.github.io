@@ -1,0 +1,5 @@
+User-agent: Baiduspider
+User-agent: *
+Disallow: /script/
+Disallow: /images/ 
+Disallow: /css/ 

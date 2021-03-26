@@ -457,7 +457,7 @@ http.cors.allow‐origin: "*"
 
 ### 什么是IK分词器
 
-我们在浏览器地址栏输入{{}}浏览器显示效果如下
+我们在浏览器地址栏输入浏览器显示效果如下
 
 ```http
 http://127.0.0.1:9200/_analyze?analyzer=chinese&pretty=true&text=我是程序员，

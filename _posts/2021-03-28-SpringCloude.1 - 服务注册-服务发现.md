@@ -1,10 +1,9 @@
 ---
 layout: post # 使用post模版
-title:  "SpringCloud-服务注册-服务发现"
+title:  "SpringCloud.1 - 服务注册-服务发现"
 date:   2021-03-28
 categories: SpringCloude SpringBooT Java
 tags:   SpringCloud SpringBooT Java
-
 ---
 # SpringCloude
 

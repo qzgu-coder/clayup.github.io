@@ -108,7 +108,7 @@ spring:
 
 ### 实现 - 服务端
 
--  修改config 模块的pom.xml
+-  修改config 模块的 pom.xml
 
 ```xml
 <dependency>
@@ -136,7 +136,7 @@ management: #暴露触发消息总线的地址
 
 ### 实现 - 客户端
 
-- 修改客户端pom.xml
+- 修改客户端 pom.xml
 
 ```xml
 <dependency>
@@ -163,7 +163,7 @@ spring:
 
 - 测试 配置文件修改之后 会不会自动更新配置文件
 
-  使用 postman请求，观察控制台
+  使用 postman post请求，观察控制台
 
 ```http
 http://127.0.0.1:12000/actuator/bus-refresh

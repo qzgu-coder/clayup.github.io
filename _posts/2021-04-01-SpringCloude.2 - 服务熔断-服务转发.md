@@ -1,6 +1,6 @@
 ---
 layout: post # 使用post模版
-title:  "SpringCloud.2 -服务熔断-服务转发"
+title:  "SpringCloud.2 - 服务熔断-服务转发"
 date:   2021-04-01
 categories: SpringCloude SpringBoot Java
 tags:   SpringCloud SpringBoot Java

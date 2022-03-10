@@ -70,7 +70,7 @@ nav:
     - {title: 技术支持, description: support, url: '/support'}      
     - {title: 微信公众号, description: wechat, url: '/'}   
     - {title: 关于我, description: about, url: '/about'}   
-    - {title: 备案号：皖ICP备19004736号-1, description: info, url: 'beian.miit.gov.cn'}
+    - {title: 备案号：皖ICP备19004736号-1, description: info, url: 'http://beian.miit.gov.cn'}
     
 
 # Pagination
